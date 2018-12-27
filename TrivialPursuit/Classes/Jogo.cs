@@ -91,7 +91,7 @@ namespace TrivialPursuit
             jogador[1].categAcertadas[3] = Casa.Cor.Azul;
             jogador[1].categAcertadas[4] = Casa.Cor.Laranja;
             jogador[1].categAcertadas[5] = Casa.Cor.Amarelo;
-            jogador[2].categAcertadas[0] = Casa.Cor.Azul;
+            jogador[2].categAcertadas[0] = Casa.Cor.AzulEscuro;
             jogador[1].casa = 4;
             //codigo de teste
         }
